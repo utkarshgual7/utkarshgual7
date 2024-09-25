@@ -8,7 +8,8 @@ Programming Languages:
 Python: Advanced level, with expertise in building AI/ML models and automation scripts.
 JavaScript: Familiar with frontend frameworks like React and backend development using Node.js.  
 
-Java: Proficient in algorithm development and data structures.
+Java: Proficient in algorithm development and data structures.  
+
 Web Development:
 Frontend: JavaScript, React.js, Tailwind CSS
 Backend: Node.js, Express.js, MongoDB
