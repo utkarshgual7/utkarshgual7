@@ -1,10 +1,13 @@
 👋 Hello, I'm Utkarsh
 I'm a Computer Science Engineering (CSE) undergraduate, specializing in Artificial Intelligence (AI) and Machine Learning (ML). I am passionate about applying AI/ML techniques to solve real-world problems and also have a strong background in Python and Web Development.
 
-🚀 Skills & Technologies
-Programming Languages:
+🚀 Skills & Technologies  
+
+Programming Languages:  
+
 Python: Advanced level, with expertise in building AI/ML models and automation scripts.
-JavaScript: Familiar with frontend frameworks like React and backend development using Node.js.
+JavaScript: Familiar with frontend frameworks like React and backend development using Node.js.  
+
 Java: Proficient in algorithm development and data structures.
 Web Development:
 Frontend: JavaScript, React.js, Tailwind CSS
