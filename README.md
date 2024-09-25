@@ -9,11 +9,14 @@ Java: Proficient in algorithm development and data structures.
 Web Development:
 Frontend: JavaScript, React.js, Tailwind CSS
 Backend: Node.js, Express.js, MongoDB
-Full Stack: MERN (MongoDB, Express, React, Node.js)
+Full Stack: MERN (MongoDB, Express, React, Node.js)  
+
+
 Artificial Intelligence & Machine Learning:
 Machine Learning: Scikit-learn, TensorFlow, Keras
 Data Science: Pandas, NumPy, Matplotlib, Seaborn
-Deep Learning: CNNs, RNNs, NLP models
+Deep Learning: CNNs, RNNs, NLP models  
+
 Tools & Technologies:
 Git & GitHub: Version control and collaborative development.
 Docker: Containerization for application deployment.
