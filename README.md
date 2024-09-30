@@ -7,7 +7,8 @@ Programming Languages:
 JavaScript: Familiar with frontend frameworks like React and backend development using Node.js.  
 
 Java: Proficient in algorithm development and data structures.  
-Python
+Python  
+
 Web Development:
 Frontend: JavaScript, React.js, Tailwind CSS
 Backend: Node.js, Express.js, MongoDB
