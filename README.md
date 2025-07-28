@@ -63,7 +63,7 @@
 📅 **Jun – Jul 2024**  
 - Developed a virtual meeting platform with high-quality video conferencing and real-time chat.  
 - Focused on smooth user experience tailored for both personal and business use.  
-🔗 [Live Link](https://connectvice.com)
+🔗 [Live Link](https://connectvice.vercel.app)
 
 ---
 
@@ -72,6 +72,7 @@
 📅 **Apr – May 2024**  
 - Built a full-stack app integrating AI-based healthcare tools and patient chatbot.  
 - Integrated X-ray & report analysis via Gemini model, reducing diagnostic time by 40%.
+- 🔗 [Live Link](https://upchaar.live)
 
 ---
 
