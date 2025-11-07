@@ -1,85 +1,68 @@
-# Hi there, I'm Utkarsh Gual 👋
+# 👋 Hi, I'm Utkarsh Gual
 
-🚀 I architect scalable backend systems, design robust APIs, and optimize database performance.  
-🔧 I focus on building the **invisible infrastructure** that powers modern applications.
+**Architecting scalable backend systems · Designing robust APIs · Optimizing databases**
+
+I build the invisible infrastructure that powers modern applications.
 
 ---
 
 ## 💡 About Me
 
-- 🔭 I'm passionate about designing **resilient systems** and **performance-tuned databases**.
-- 💬 Ask me about backend architecture, API design, microservices, SQL tuning, or devops practices.
-- 🧠 Always learning and experimenting with new backend frameworks, infra tools, and cloud tech.
+- 🧱 Passionate about resilient systems and high-performance backends  
+- ⚙️ Love working with APIs, microservices, and database optimization  
+- ☁️ Deploy and automate using AWS / GCP with CI/CD & Infra-as-Code   
+
+### 🧠 AI Voice Systems
+Lately, I’ve been working on **AI-powered voice agents** that handle real-world calling use cases —   like appointment reminders, delivery coordination, and customer support.  
+This includes building **LLM-driven dialogue flows**, integrating **speech-to-text / text-to-speech APIs**,  and optimizing for latency and response naturalness.
+
+
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 **Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
-**Developer Tools:**  
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+**Frameworks & Tools:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-**Cloud Platforms:**  
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+**Cloud & Databases:**  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-**Operating Systems:**  
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
-## 🛠️ Recent Projects
+## 🚀 Featured Projects
 
-### 🚀 Smart Dakiya – IndiaPost  
-**Tech:** React JS, Node JS, MongoDB, Express.js, Python, LLM  
-📅 **Aug 2024**  
-- Developed a web app for time-slot-based parcel delivery, increasing delivery success rates.  
-- Built AI algorithms to predict recipient availability for on-time delivery optimization.  
-- Created a real-time parcel tracking dashboard for enhanced user visibility.  
-🔗 [Live Link](https://smartaipost.onrender.com)
+### [Smart Dakiya – IndiaPost](https://smartaipost.onrender.com)
+- Built time-slot parcel delivery web app improving delivery success rate  
+- Implemented AI models for recipient availability prediction  
+- Created real-time parcel tracking dashboard  
 
----
+--- 
 
-### 🎥 Connectvice  
-**Tech:** Next JS, WebRTC  
-📅 **Jun – Jul 2024**  
-- Developed a virtual meeting platform with high-quality video conferencing and real-time chat.  
-- Focused on smooth user experience tailored for both personal and business use.  
-🔗 [Live Link](https://connectvice.vercel.app)
+### [UPCHAAR – AI Healthcare Solution](https://upchaar.live)
+- Integrated AI chatbot & X-ray/report analysis using model  
+- Reduced diagnostic time by 40% through automated insights  
 
 ---
-
-### 🏥 UPCHAAR – AI Healthcare Solution  
-**Tech:** MERN Stack, Python, Google GenAI  
-📅 **Apr – May 2024**  
-- Built a full-stack app integrating AI-based healthcare tools and patient chatbot.  
-- Integrated X-ray & report analysis via Gemini model, reducing diagnostic time by 40%.
-- 🔗 [Live Link](https://upchaar.live)
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshgual7&show_icons=true&theme=github_dark" alt="Utkarsh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshgual7&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -88,13 +71,10 @@
 
 ---
 
-## 📫 Get in Touch
+## 📫 Connect With Me
 
-- 🌐 [Portfolio / Website](https://utkarshgual.netlify.app)
-- 💼 [LinkedIn](https://linkedin.com/in/utkarsh-gual)
-- 📬 Email: gu.meet.07@gmail.com
+🌐 [Portfolio](https://utkarshgual.netlify.app)  
+💼 [LinkedIn](https://linkedin.com/in/utkarsh-gual)  
+🐙 [GitHub](https://github.com/utkarshgual7)
 
----
 
-> *"Build systems that don’t just scale — but last."*  
-> — Utkarsh Gual
