@@ -72,8 +72,7 @@ This includes building **LLM-driven dialogue flows**, integrating **speech-to-te
 ---
 
 ## 📫 Connect With Me
-
-🌐 [Portfolio](https://utkarshgual.netlify.app)  
+  
 💼 [LinkedIn](https://linkedin.com/in/utkarsh-gual)  
 🐙 [GitHub](https://github.com/utkarshgual7)
 
