@@ -10,7 +10,6 @@
 
 <img src="https://img.shields.io/badge/Experience-1.5%2B%20years-2C5364?style=flat-square&labelColor=0f2027" />
 <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-203a43?style=flat-square&labelColor=0f2027" />
-<img src="https://komarev.com/ghpvc/?username=utkarshgual7&style=flat-square&color=2C5364&label=Profile+Views" />
 
 </div>
 
@@ -43,7 +42,7 @@ Modeling how people actually *act* — pattern detection, behavior prediction, a
 
 ### AI Voice Systems
 
-Voice agents for real-world calling. See the work in production at **[hirefinn.ai](https://hirefinn.ai)**.
+Voice agents for real-world calling. See the work in production at **[hirefinn.ai](https://hirefinn.ai)**. Also contributing to **[Pipecat](https://github.com/pipecat-ai/pipecat)**, the open-source voice AI framework.
 
 </td>
 </tr>
@@ -121,9 +120,6 @@ Time-slot parcel delivery platform that lifts delivery success rates, with AI-ba
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=utkarshgual7&show_icons=true&hide_border=true&theme=transparent&title_color=38bdf8&icon_color=38bdf8&text_color=8b949e" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgual7&layout=compact&hide_border=true&theme=transparent&title_color=38bdf8&text_color=8b949e" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshgual7&hide_border=true&background=00000000&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e" width="98%" />
 
 </div>
@@ -135,7 +131,6 @@ Time-slot parcel delivery platform that lifts delivery success rates, with AI-ba
 <div align="center">
 
 <a href="https://linkedin.com/in/utkarsh-gual"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/utkarshgual7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
